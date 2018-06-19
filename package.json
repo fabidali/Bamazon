@@ -1,0 +1,27 @@
+{
+  "name": "mysql-node-bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using MySQL. The app takes orders from customers and reduces inventory count from the store's inventory.",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "cli-input": "^0.2.0",
+    "cli-table": "^0.2.0",
+    "inquirer": "^1.2.1",
+    "mysql": "^2.11.1",
+    "ttycolor": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabidali/Bamazon.git"
+  },
+  "author": "Fabian Christie",
+  "license": "ISC",
+  "bugs": {s
+    "url": "https://github.com/fabidali/Bamazon/issues"
+  },
+  "homepage": "https://github.com/fabidali/Bamazon#readme"
+}
